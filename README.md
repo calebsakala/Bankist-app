@@ -4,8 +4,8 @@ Practice making big-money transactions with my follow-along of Jonas Schmedtmann
 *Choose to login as either me or a guest*              
 - Me           
 Username: cs        
-Password: 1111 < br />
-< br />
-- Guest < br />
-Username: gu < br />
-Password: 1234 < br />
+Password: 1111       
+              
+- Guest    
+Username: gu     
+Password: 1234 
