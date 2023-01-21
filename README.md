@@ -1,10 +1,9 @@
 # Bankist-app
 Practice making big-money transactions with my follow-along of Jonas Schmedtmann's Bankist app!
 
-*Choose to login as either me or a guest* < br />
-- Me 
-#
-Username: cs 
+*Choose to login as either me or a guest*              
+- Me           
+Username: cs        
 Password: 1111 < br />
 < br />
 - Guest < br />
