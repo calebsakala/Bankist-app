@@ -3,8 +3,8 @@ Practice making big-money transactions with my follow-along of Jonas Schmedtmann
 
 *Choose to login as either me or a guest* < br />
 - Me 
-##
-Username: cs < br />
+#
+Username: cs 
 Password: 1111 < br />
 < br />
 - Guest < br />
